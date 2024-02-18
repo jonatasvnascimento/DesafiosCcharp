@@ -1,0 +1,14 @@
+H:\Desafios\DesafiosCcharp\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+H:\Desafios\DesafiosCcharp\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+H:\Desafios\DesafiosCcharp\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+H:\Desafios\DesafiosCcharp\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+H:\Desafios\DesafiosCcharp\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+H:\Desafios\DesafiosCcharp\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
